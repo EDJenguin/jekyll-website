@@ -9,3 +9,6 @@ permalink: /sub/
 This is your sub-page content.
 
 <a href="{{ '/' | relative_url }}" class="btn">Back to Home</a>
+
+- bullet point
+<class="btn">Test</a>
