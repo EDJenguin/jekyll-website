@@ -4,8 +4,8 @@ title: Subpage
 permalink: /sub/
 ---
 
-# Welcome to the Subpage!
+# This is the test website
 
-This is your sub-page content.
+yo
 
 <a href="{{ '/' | relative_url }}" class="btn">Back to Home</a>

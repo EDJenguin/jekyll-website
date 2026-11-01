@@ -6,7 +6,7 @@ permalink: /sub/
 
 # Welcome to the Subpage!
 
-This is your sub-page content.
+There is a thing here
 
 <a href="{{ '/' | relative_url }}" class="btn">Back to Home</a>
 
