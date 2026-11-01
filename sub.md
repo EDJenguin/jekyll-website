@@ -11,4 +11,4 @@ This is your sub-page content.
 <a href="{{ '/' | relative_url }}" class="btn">Back to Home</a>
 
 
-<a class="btn">Test</a>
+<a href="{{ '/test' | relative_url }}" class="btn">Test</a>
